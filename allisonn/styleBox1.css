@@ -1,0 +1,244 @@
+/* Each photo */
+.s6{
+  height: 600px;
+}
+.s1{
+  height: 70px;
+}
+.s2{
+  height: 70px;
+}
+#clock{
+  background-image: url("clock.jpeg");
+  transform: rotate(355deg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 40%;
+  height: 100px;
+}
+#title{
+  background-image: url("friendogram.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 40%;
+  height: 100px;
+}
+#bars{
+  background-image: url("hambut.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 20%;
+  height: 100px;
+}
+
+/* box1 and hover */
+#box1{
+  background-image: url("bts.jpeg");
+  background-color: black;
+  background-size: 550px 650px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#wrapper{
+  border: thick white solid;
+  width: 475px;
+  height: 105px;
+  margin: 50px;
+  overflow: hidden;
+}
+#caption, #hidden{
+  padding-left:0;
+  font-size: 20px;
+  width: 475px;
+  height: 105px;
+  text-align: left;
+}
+#caption:hover{
+  margin-top: -90px;
+}
+
+/* box2 and hover */
+#box2{
+  background-image: url("nct127.jpeg");
+  background-color: black;
+  background-size: 550px 700px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#wrapper2{
+  border: thick white solid;
+  width: 475px;
+  height: 75px;
+  margin: 50px;
+  overflow: hidden;
+}
+#caption2, #hidden2{
+  padding-left:0;
+  font-size: 20px;
+  width: 475px;
+  height: 75px;
+  text-align: left;
+}
+#caption2:hover{
+  margin-top: -60px;
+}
+
+/* box3 and hover */
+#box3{
+  height: 350px;
+  background-image: url("nctdream.jpeg");
+  background-color: black;
+  background-size: 500px 375px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#wrapper3{
+  border: thick white solid;
+  width: 475px;
+  height: 225px;
+  margin: 50px;
+  overflow: hidden;
+}
+#caption3, #hidden3{
+  padding-left:0;
+  font-size: 20px;
+  width: 475px;
+  height: 225px;
+  text-align: left;
+}
+#caption3:hover{
+  margin-top: -210px;
+}
+
+
+#box4{
+  background-image: url("nctu.jpeg");
+  background-color: black;
+  background-size: 475px 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#box5{
+  background-image: url("wayv.jpeg");
+  background-color: black;
+  background-size: 550px 675px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* box6 and hover */
+#box6{
+  height: 350px;
+  background-image: url("svt.jpeg");
+  background-color: black;
+  background-size: 475px 350px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#wrapper4{
+  border: thick white solid;
+  width: 475px;
+  height: 160px;
+  margin: 50px;
+  overflow: hidden;
+}
+#caption4, #hidden4{
+  padding-left:0;
+  font-size: 20px;
+  width: 475px;
+  height: 160px;
+  text-align: left;
+}
+#caption4:hover{
+  margin-top: -150px;
+}
+
+/* box7 and hover */
+#box7{
+  height: 350px;
+  background-image: url("nct2018.jpeg");
+  background-color: black;
+  background-size: 475px 350px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#wrapper5{
+  border: thick white solid;
+  width: 475px;
+  height: 130px;
+  margin: 50px;
+  overflow: hidden;
+}
+#caption5, #hidden5{
+  padding-left:0;
+  font-size: 20px;
+  width: 475px;
+  height: 130px;
+  text-align: left;
+}
+#caption5:hover{
+  margin-top: -120px;
+}
+
+#box8{
+  height: 475px;
+  background-image: url("nctdream127.jpeg");
+  background-color: black;
+  background-size: 475px 475px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* box9 and hover */
+#box9{
+  background-image: url("nomin.jpeg");
+  background-color: black;
+  background-size: 475px 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#wrapper6{
+  border: thick white solid;
+  width: 475px;
+  height: 100px;
+  margin: 50px;
+  overflow: hidden;
+}
+#caption6, #hidden6{
+  padding-left:0;
+  font-size: 20px;
+  width: 475px;
+  height: 100px;
+  text-align: left;
+}
+#caption6:hover{
+  margin-top: -90px;
+}
+
+/* nav bar */
+#heart{
+  background-image: url("igheart.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 70px 70px;
+}
+#comment{
+  background-image: url("igcomment.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 60px 60px;
+  background-color: #F0F0F0;
+  opacity: 0.8;
+}
+#share{
+  background-image: url("igshare.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 70px 70px;
+}
+#bookmark{
+  background-image: url("igbookmark.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 70px 70px;
+}

@@ -1,0 +1,104 @@
+/* Home page */
+#clock{
+  background-image: url("clock.jpeg");
+  transform: rotate(355deg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 40%;
+  height: 100px;
+}
+#title{
+  background-image: url("friendogram.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 40%;
+  height: 100px;
+}
+#bars{
+  background-image: url("hambut.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 20%;
+  height: 100px;
+}
+
+
+#box1{
+  background-image: url("bts.jpeg");
+  background-color: black;
+  background-size: 350px 450px;
+  background-position: -15px -50px;
+  background-repeat: no-repeat;
+}
+#box2{
+  background-image: url("nct127.jpeg");
+  background-color: black;
+  background-size: 350px 450px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#box3{
+  background-image: url("nctdream.jpeg");
+  background-color: black;
+  background-position: -30px -15px;
+  background-repeat: no-repeat;
+}
+#box4{
+  background-image: url("nctu.jpeg");
+  background-color: black;
+  background-size: 375px 475px;
+  background-position: -30px -20px;
+  background-repeat: no-repeat;
+}
+#box5{
+  background-image: url("wayv.jpeg");
+  background-color: black;
+  background-size: 350px 450px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#box6{
+  background-image: url("svt.jpeg");
+  background-color: black;
+  background-position: -150px -50px;
+  background-repeat: no-repeat;
+}
+#box7{
+  background-image: url("nct2018.jpeg");
+  background-color: black;
+  background-size: 450px 350px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#box8{
+  background-image: url("nctdream127.jpeg");
+  background-color: black;
+  background-size: 350px 350px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#box9{
+  background-image: url("nomin.jpeg");
+  background-color: black;
+  background-size: 325px 450px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.s4{
+  height: 300px;
+  opacity: 0.9;
+  transition: 0.3s;
+}
+
+.s4:hover {
+  opacity: 1
+}
+
+div {
+  transition-property: transform;
+  transition-duration: 300ms;
+}
+div:hover {
+  transform: scale(1.01);
+}
