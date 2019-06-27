@@ -1,0 +1,42 @@
+body {
+  background-color:blue;
+  text-align:center;
+  align-items:center;
+  justify-content:center;
+
+}
+h1 {
+color:blue;background-color:gray;text-align: center;
+border: 10px ridge purple;
+}
+p {
+background-color:black;color:grey;border: 5px ridge yellow;
+}
+h2{
+  text-align:center;
+  background-color:red;
+  border: 10px ridge purple;
+  color:black;
+
+}
+
+  ol{
+    display:inline-block;
+  self-align:center;
+  background-color: red;
+  width: 300px;
+  border: 15px ridge green;
+  padding: 50px
+  margin: 20px
+  color:black;
+}
+
+h4{
+  background-color:yellow;
+  border: 15px double black;
+  list-style:inside;
+}
+
+ul{
+  color:white;
+}
