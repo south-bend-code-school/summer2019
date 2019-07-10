@@ -1,0 +1,19 @@
+body{
+  background-color: lightblue;
+  color: grey;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+ background-image: url("http://tanamen.com/img/d_default/black-texture/black-texture-freepik-5c7412d29661d.png");
+padding: 50px !important;
+
+}
+
+.home-link {
+/* padding: 50px !important; */
+border: 2px solid white;
+background: darkblue;
+color: white;
+}
