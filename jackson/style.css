@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  background-color: purple;
+  color: gold;
+}
+
+#james {
+  width:100%;
+  height:550px;
+}
+#wilson {
+  width:45%;
+  height:300px;
+}
