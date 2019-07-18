@@ -1,0 +1,64 @@
+body {
+  background-color: black;
+  text-align:center;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#kobe:hover { color:purple; }
+#Kareem:hover { color:darkgreen; }
+#Michael:hover {
+  color:red;
+  background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0,0,0, .0)), url("https://statics.sportskeeda.com/editor/2018/03/a4a7b-1520474015-800.jpg");
+  background-size: 70%;
+  background-position: center top;
+  color:transparent;
+}
+#Michael { 
+  color:red;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0, .7)), url("https://statics.sportskeeda.com/editor/2018/03/a4a7b-1520474015-800.jpg");
+  background-size: 70%;
+  background-position: center top;
+}
+
+#Magic:hover { 
+  color:purple;
+  background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0,0,0, .0)), url("https://gazettereview.com/wp-content/uploads/2016/07/magic-johnson.jpeg");
+  background-size: 70%;
+  background-position: center top;
+  color:transparent;
+}
+#Magic { 
+  color:purple;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0, .7)), url("https://gazettereview.com/wp-content/uploads/2016/07/magic-johnson.jpeg");
+  background-size: 70%;
+  background-position: center top;
+}
+
+#James:hover {
+  color:darkred;
+  background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0,0,0, .0)), url("https://images.beinsports.com/d9oIPcKdUweJw1OPXKzNrB_O6Gc=/full-fit-in/1000x0/james-lebron-03252018-usnews-getty-ftr_c5257u58ywsl1ftnycbtj7tl0.jpg");)
+  background-size: 70%;
+  background-position: center top;
+  color:transparent;
+}
+#James {
+  color:darkred;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0, .7)), url("https://images.beinsports.com/d9oIPcKdUweJw1OPXKzNrB_O6Gc=/full-fit-in/1000x0/james-lebron-03252018-usnews-getty-ftr_c5257u58ywsl1ftnycbtj7tl0.jpg");)
+  background-size: 70%;
+  background-position: center top;
+}
+
+div {
+ display:inline-block;
+  transition: 3s;
+  color:black;
+  text-align:center;
+  height:45vh !important;
+}
+.row img {
+  height:40vh !important;
+}
+
+h1 {
+  color:white
+}
