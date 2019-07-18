@@ -1,0 +1,37 @@
+body{
+  background-color: grey;
+  /* text-align: center; */
+  /* margin-left:15%;
+  margin-right:15%; */
+}
+img{
+  /* width:50%; */
+}
+.containers {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+.character div{
+
+}
+.left{
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+.info{
+
+}
+
+#ironman {
+  /* background: red; */
+}
+#avengers {
+  background-image: url("https://thumbs.gfycat.com/AcademicRapidHowlermonkey-size_restricted.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top:20%;
+  padding-bottom:20%;
+  background-position: center center;
+}
